@@ -1,0 +1,1 @@
+This is a Ping Pong application made in Qt5
